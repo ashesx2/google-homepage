@@ -1,4 +1,6 @@
-The Odin Project: Foundations
-Project for The Front End (HTML/CSS)
+# The Odin Project | Foundations Path 
+**The Front End - Project: Google Homepage**
 
-This project attempts to replicate the look of the Google homepage using HTML and CSS.
+In this project, I attempt to recreate Google's homepage using my amateur knowledge of HTML and CSS.
+
+[Live Preview of Google Homepage](https://ashesx2.github.io/google-homepage/)
