@@ -1,5 +1,5 @@
 input:focus, textarea:focus, select:focus {
-    outline: none;
+    outline: none; 
 }
 
 a {
@@ -19,7 +19,7 @@ ul {
 }
 
 li {
-    display: inline;
+    display: inline; 
     padding: 0px 10px 0px 10px;
 }
 
@@ -29,7 +29,7 @@ li {
     opacity: 0.6;
 }
 .apps:hover {
-    opacity: 1;
+    opacity: 1; 
 }
 
 #sign-in {
@@ -44,7 +44,7 @@ li {
     font-weight: bold;
 }
 
-.logo-search {
+.search-body {
     height: 10em;
     display: flex;
     align-items: center;
@@ -100,4 +100,13 @@ li {
 }
 #feeling-lucky:hover {
     border: 1px #b3b3b3 solid;
+}
+
+footer {
+    background-color: #f2f2f2;
+    border-top: 1px #dadce0 solid;
+    position: fixed; 
+    width: 100%;
+    bottom: 0;
+    left: 0;
 }
